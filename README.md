@@ -17,6 +17,12 @@ composer check                    # pint + phpstan + pest
 `VendorName`, `PackageName`, `package_name`, `PACKAGE_NAME`) in file contents
 and file names, then deletes itself.
 
+## Screenshots
+
+![composer check and the install command](docs/screenshots/checks.png)
+
+_Real output from a local run of Pint, Pest and the install command through Testbench (PHP 8.3). Static analysis is not shown: Larastan could not be installed in this sandbox, so CI is the check for that step._
+
 ## What is included
 
 | Path | Purpose |
