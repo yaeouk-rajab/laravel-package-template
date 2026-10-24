@@ -17,6 +17,12 @@ composer check                    # pint + phpstan + pest
 `VendorName`, `PackageName`, `package_name`, `PACKAGE_NAME`) in file contents
 and file names, then deletes itself.
 
+## Screenshots
+
+![composer check and the install command](docs/screenshots/checks.png)
+
+_These images are illustrative mockups rendered from this repository's documented screens and API shapes, not captures of a running build. Regenerate or replace them with real captures once the app is running._
+
 ## What is included
 
 | Path | Purpose |
