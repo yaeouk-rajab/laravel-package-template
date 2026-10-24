@@ -21,7 +21,7 @@ and file names, then deletes itself.
 
 ![composer check and the install command](docs/screenshots/checks.png)
 
-_These images are illustrative mockups rendered from this repository's documented screens and API shapes, not captures of a running build. Regenerate or replace them with real captures once the app is running._
+_Real output from a local run of Pint, Pest and the install command through Testbench (PHP 8.3). Static analysis is not shown: Larastan could not be installed in this sandbox, so CI is the check for that step._
 
 ## What is included
 
